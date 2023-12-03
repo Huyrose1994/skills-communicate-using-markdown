@@ -5,8 +5,13 @@
 ##### H5 Header
 ###### H6 Header
 
-
 # Adding an Images
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-This cat looks scary :D
+# Adding a code example
+```python
+print('This is a python script')
+```
+``` javascript
+var myVar = 'This is a javascript';
+```
