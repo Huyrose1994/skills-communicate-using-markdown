@@ -18,4 +18,4 @@ var myVar = 'This is a javascript';
 # Add a task list
 - [x] Turn on Github Pages
 - [x] Outline my portfolio
-- [x] Introduce myself to the world
+- [ ] Introduce myself to the world
